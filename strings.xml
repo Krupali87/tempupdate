@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="vehicle_surveillance_system">Vehicle Surveillance System</string>
+    <string name="live_stream_temperaturem_sensor">Live Stream Temperature  Sensor</string>
+    <string name="api_key">API_KEY</string>
+    <string name="_4100c5d677e4053b6850e0f444e9bbee">4100C5D677E4053B6850E0F444E9BBEE</string>
+    <string name="submit">Submit</string>
+    <string name="setting">Setting</string>
+    <string name="spinner_title">Select an item</string>
+    <string name="spinner_second_title">Select an item</string>
+
+</resources>
